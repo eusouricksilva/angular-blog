@@ -1,2 +1,2 @@
 # angular-blog
-Projeto feito utilizando Angular e TypeScript para o curso da DIO de Desenvolvedor Fullstack Java + Angular.
+Blog do Michael Jackson realizado para o desafio da DIO - Bootcamp Fullstack Java + Angular! Foi utilizado Angular e TypeScript.
